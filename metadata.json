@@ -1,0 +1,6 @@
+{
+  "name": "PromptForge",
+  "description": "Production-grade AI security research platform for LLM red teaming, jailbreak analysis, prompt injection testing, and adversarial evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
